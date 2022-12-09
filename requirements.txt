@@ -1,0 +1,4 @@
+pandas
+cufflinks
+sympy
+numpy
